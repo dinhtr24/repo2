@@ -1,0 +1,11 @@
+D:\WindowsGUI\WindowsGUI\bin\Debug\WindowsGUI.exe.config
+D:\WindowsGUI\WindowsGUI\bin\Debug\WindowsGUI.exe
+D:\WindowsGUI\WindowsGUI\bin\Debug\WindowsGUI.pdb
+D:\WindowsGUI\WindowsGUI\obj\Debug\WindowsGUI.csproj.AssemblyReference.cache
+D:\WindowsGUI\WindowsGUI\obj\Debug\WindowsGUI.Properties.Resources.resources
+D:\WindowsGUI\WindowsGUI\obj\Debug\WindowsGUI.csproj.GenerateResource.cache
+D:\WindowsGUI\WindowsGUI\obj\Debug\WindowsGUI.csproj.CoreCompileInputs.cache
+D:\WindowsGUI\WindowsGUI\obj\Debug\WindowsGUI.exe
+D:\WindowsGUI\WindowsGUI\obj\Debug\WindowsGUI.pdb
+D:\WindowsGUI\WindowsGUI\obj\Debug\WindowsGUI.Form1.resources
+D:\WindowsGUI\WindowsGUI\obj\Debug\WindowsGUI.Form2.resources
